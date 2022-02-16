@@ -1,0 +1,13 @@
+Bài tập về bảng (table)
+B1: tr, th -- th là tiêu đề
+B2: <caption>Names</caption> -- Chú thích cho bảng
+B3: style="width:300px ;" 
+B4: td --Nội dung của cột
+B5: colspan="2"
+B6: rowspan="2"
+
+Bài tập về IFrame
+B7: src
+B8: width="500px"
+B9: style="border:none;" -- Bỏ đường viền
+B10: iframe

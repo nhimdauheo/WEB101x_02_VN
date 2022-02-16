@@ -1,0 +1,30 @@
+Bài tập về danh sách (list)
+B1:<ul> 
+	<li> Coffee </li>
+  </ul>
+B2: ol
+B3: list-style-type:square  --Kí tự hình vuông
+B4: type="A" -- Kí tự ABC thay vì 123
+B5: type="I" -- Kí tự la mã thay vì 123
+B6: dd
+
+Bài tập về style
+B7: style="color:blue;"
+B8: style="font-family:courier;"
+B9: style="text-align: center;"
+B10: style="font-size:50px;"
+B11: style="background-color:yellow;"
+B12: style="text-align:center;"
+
+Bài tập về định dạng văn bản (formating)
+B13: strong
+B14: em --Nhấn mạnh (Nghiêng)
+B15: mark -- Hightlight
+B16: sub -- Chữ nhỏ dưới
+B17: del -- Gạch ngang chữ
+
+Bài tập về trích dẫn (quotation)
+B18: q -- Thêm ""
+B19: blockquote -- Đoạn văn bản thụt vào lề
+B20: bdo dir="rtl" -- Viết ngược
+B21: abbr title="" -- Chú thích 

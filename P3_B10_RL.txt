@@ -1,0 +1,28 @@
+Bài tập về góc bo tròn
+B1: border-radius
+B2: border-bottom-left-radius
+
+Bài tập về văn bản (text) HTML5
+B3: text-overflow: ellipsis --Chữ không hiển thị đủ sẽ ...
+B4: word-wrap: break-word --Chữ dài sẽ tự xuống hàng
+B5: word-break: break-all
+
+Bài tập về font
+B6: @font-face, src, url
+B7: font-weight
+
+Bài tập về hiệu ứng transition
+B8: transition --Hiệu ứng chuyển tiếp
+B9: transition-timing-function: ease-in-out 
+B10: transition-delay
+B11: transition: background 2s, transform 2s;
+B12: transition: width 9s ease-in-out 5s;
+
+
+Bài tập về hiệu ứng animation
+B13: animation-duration -- Chuyển đổi trong bao nhiêu s
+B14: top, left
+B15: animation-delay
+B16: animation-iteration-count: infinite -- Thực hiện liên tục
+B17: animation-direction: alternate -- Đi 2 lần
+B18: animation-timing-function: ease-in-out;

@@ -1,0 +1,20 @@
+Bài tập về cách sử dụng CSS
+B1: <link rel="stylesheet" href="mystyle.css">
+B2: body, background-color
+B3: style
+B4: {:}
+
+Bài tập về combinator
+B5: div p --CSS bên trong phần tử
+B6: div > p --CSS p là con div
+B7: div + p --CSS p sau một div
+B8: div ~ p 
+
+Bài tập về danh sách (list)
+B13: list-style-type -- Kí tự
+B14: list-style-image
+B15: list-style-type
+
+Bài tập về bảng (table)
+B16: table,th,td{border}
+B17: th{padding}

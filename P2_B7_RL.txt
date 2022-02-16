@@ -1,0 +1,23 @@
+Bài tập về mô hình hộp (Box Model)
+B1: div{width}
+B2: div{border}
+B3: padding
+B4: margin-left
+
+Bài tập về đường biên (border)
+B5: border
+B6: boder-color
+
+Bài tập về lề (margin)
+B7: margin-left
+B8: 20px 40px
+B9: 20 15 25 10
+
+Bài tập về khoảng đệm (padding)
+B10: padding-top
+B11: 40 10
+
+Bài tập về kích thước chiều (dimension)
+B12: height
+B13: width
+

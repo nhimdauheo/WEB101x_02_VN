@@ -1,0 +1,72 @@
+
+ul{
+    padding: 20px;
+}
+li{
+    display: inline-block;
+}
+li a{
+    padding: 8px 8px;
+    text-transform: uppercase;
+    font-family: 'Mukta', sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+.banner{
+    position: relative; 
+}
+.content{
+   position: absolute ;
+   color: white;
+   font-weight: bold;
+   font-size: 18px;
+   top: 90px;
+   left: 80px;
+   font-family: Lucida;
+}
+.box {
+    background-color: #DEDEDE;
+    margin-top: -4px;
+    padding: 20px;
+    
+}
+.box > h2 {
+    margin-left: 30px;
+}
+.box > p {
+    margin-left: 30px;
+}
+.box > .box1{
+    float: left;
+    width: 33%;
+    margin-left: 30px;
+}
+.box > .box2{
+    float: left;
+    width: 33%;
+}
+.footter{
+    background-color: #F7F5F5;
+    margin-top: -28px;
+    padding: 9px;
+}
+.footter > .box4{
+    float: left;
+    width: 35%; 
+}
+.footter > .box5{
+    float: left;
+    width: 37%;
+}
+.footter h4{
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+}
+.footter  a{
+    text-decoration: none;
+    color:#5ed1d1;
+    font-family: 'Libre Baskerville', serif;
+}
+
+

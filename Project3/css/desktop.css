@@ -1,0 +1,27 @@
+@media screen and (min-width: 992px){
+    p{
+        font-size: 18px;
+    }
+    #banner{
+        background-image: url('../img/lodging.png');
+        background-size: cover;
+        height: 500px;
+    }
+    #banner  h1{
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+        padding-left: 16%;
+        padding-top: 12%;
+    }
+    #banner  p{
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        padding-left: 16%;
+    }
+    #text-main{
+        margin-left: -3px;
+    }
+    
+}

@@ -1,0 +1,15 @@
+Bài tập về định vị (thuộc tính position)
+B1: position: fixed, top, right
+B2: position: relative, top
+B3: position: absolute, top
+B4: position: relative
+
+Bài tập về thuộc tính display (hiển thị)
+B5: visibility: hidden; -- Ân nhưng vẫn chiếm chỗ
+B6: display: none;
+B7: display: inline;
+B8: display: block;
+
+Bài tập về thuộc tính align (căn chỉnh)
+B9: margin: auto;
+B10: position, right

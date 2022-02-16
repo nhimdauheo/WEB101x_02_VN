@@ -1,0 +1,34 @@
+Bài tập về các thuộc tính (attribute) HTML
+B1: <p title ="About W3Schools">W3Schools is a web developer's site.</p>
+B2: <img src="w3schools.jpg" width="250" height="400">
+B3: <a href= "https://www.w3schools.com">This is a link</a>.
+B4: <img src="w3schools.png" alt="w3schools Logo">
+
+Bài tập về các thẻ heading
+B7: <h1>London</h1>
+B8: h1 -> h6
+B9: h1 -> h3, p
+
+Bài tập về các thẻ đoạn văn bản (paragraph)
+B10:<p>Hello World!</p>
+B11:close h1, p
+B12:<hr> gạch ngang
+B13:<br> xuống dòng
+
+Bài tập về các liên kết (link)
+B14:<a href="default.html">Visit our HTML tutorial.</a>
+B15:<a href="html_images.asp" style="text-decoration:none">HTML Images</a> Xóa gạch chân
+B16:<a href="html_images.asp" target="_blank">HTML Images</a> Mở cửa sổ mới
+B17:<a href="default.html"> <img src="smiley.gif"> </a>
+B18:<a href="default.html" title="Home">Back to Home</a> Thêm chú thích
+
+Bài tập về ảnh (image)
+B19:<img src="scream.png" width="250" height="400">
+B20:<img src="scream.png" style="width:250px;height:400px;">
+B21:<p> <img src="smiley.gif" style="float:right;">
+	This is a paragraph.
+	This paragraph contains an image
+    </p>
+B22:<a href="default.html"> <img src="smiley.gif"> </a>
+B23:<img src="smiley.gif">
+B24:<img src="smiley.gif" alt="Smiley">

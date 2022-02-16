@@ -1,0 +1,21 @@
+Bài tập về nền trang (background)
+B5: background-color
+B6: background-image
+B7:  background-repeat -- Lặp lại 
+B8:  background-position:  -- Vị trí của nền
+B9: background-attachment -- Cuộn theo trang
+
+Bài tập về văn bản (text)
+B10: color
+B11: text-align
+B12: text-decoration: none --Xóa gạch chân khỏi liên kết
+B13: text-transform -- Chữ hoa thường
+B14: text-indent -- Thụt lề chữ
+
+Bài tập về phông chữ (font)
+B15: font-family
+B16: font-style -- Chữ nghiêm
+B17: font-size 
+B18: font-weight -- Chữ đậm
+B19: font-variant -- Mũ, dưới
+
